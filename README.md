@@ -8,4 +8,4 @@ My name is **Gustavo Enrique Garufi Avila**, I'm a **Italian - Venezuelan** deve
 
 - 👨🏻‍💻 My current Toolset is **Photoshop**,**Visual Studio Code** and **Asana**.
 - 📚 Studying to get my **Computer Science** degree at **University of Malta**
-- 💼 Working Freelancing as **The WordPress Engineer** in *Traffic Wizards*.
+- 💼 Working Freelancing as **The WordPress Engineer** at *Traffic Wizards*.
