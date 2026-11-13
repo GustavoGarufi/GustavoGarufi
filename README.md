@@ -6,5 +6,6 @@ My name is **Gustavo Enrique Garufi Avila**, I'm a **Italian - Venezuelan** deve
 
 ### Quick facts about me
 
-- 👨🏻‍💻 My current Toolset is **Photoshop**,**Visual Studio Code** and **Asana**.
+- 👨🏻‍💻 My current stack is **Ghostyy**,**PHPStorm** and **Claude Code CLI**. Have also dabbled (and often use) **Cursor** and **Codex**. 
 - 💼 Working Freelancing as **The WordPress Engineer** at *Traffic Wizards*.
+- 👾 In my free time I'm working on developing a VR game.
